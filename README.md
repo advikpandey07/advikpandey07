@@ -73,30 +73,16 @@ I'm currently building a strong foundation in programming and databases while ex
 
 <p align="center">
   <a href="https://github.com/advikpandey07">
-    <img src="https://github-stats-extended.vercel.app/api?username=advikpandey07&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" width="49%" alt="GitHub Statistics"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=advikpandey07&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" width="49%" alt="GitHub Statistics"/>
   </a>
   <a href="https://github.com/advikpandey07">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=advikpandey07&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="49%" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advikpandey07&layout=compact&langs_count=6&hide_border=true&theme=github_dark" width="49%" alt="Top Languages"/>
   </a>
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
   <a href="https://github.com/advikpandey07">
     <img src="https://streak-stats.demolab.com/?user=advikpandey07&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/advikpandey07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=advikpandey07&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph"/>
   </a>
 </p>
 
@@ -138,21 +124,6 @@ A database-oriented project created while learning Python and SQL.
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/advik-pandey-745936430">
-    <img src="https://img.shields.io/badge/LinkedIn-Advik%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/namex.advik">
-    <img src="https://img.shields.io/badge/Instagram-namex.advik-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:advikpandey516@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <b>⭐ Thanks for visiting my profile!</b>
