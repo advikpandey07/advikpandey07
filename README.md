@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Advik Pandey</h1>
 
 <h3 align="center">
-BCA (AI & ML) Student • Python Developer • Exploring AI, Automation & Backend Development
+BCA (AI & DS) Student • Python Developer • Exploring AI, Automation & Backend Development
 </h3>
 
 <p align="center">
