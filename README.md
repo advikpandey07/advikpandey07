@@ -21,15 +21,15 @@ BCA (AI & DS) Student • Python Developer • Exploring AI, Automation & Backen
 
 ## 👨‍💻 About Me
 
-I'm **Advik Pandey**, a BCA student specializing in **Artificial Intelligence & Machine Learning**.
+I'm **Advik Pandey**, a BCA student specializing in **Artificial Intelligence & Data Science**.
 
 I'm currently building a strong foundation in programming and databases while exploring **AI, automation, backend development, APIs and practical software projects**.
 
-- 🎓 **Major:** BCA — Artificial Intelligence & Machine Learning
+- 🎓 **Major:** BCA — Artificial Intelligence & Data Science
 - 🐍 **Current Focus:** Python & Database Architecture
 - 🗄️ **Databases:** SQL, SQLite & MySQL
 - 🤖 **Interests:** AI, Automation & Voice Assistants
-- 🎙️ **Current Project:** Personal AI Voice Assistant (Jarvis)
+- 🎙️ **Current Project:**Sports Management System
 - 💻 **Philosophy:** Learning by building practical projects
 - 🚀 **Mission:** Turning ideas into working software
 
