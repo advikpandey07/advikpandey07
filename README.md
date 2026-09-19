@@ -4,6 +4,20 @@
 BCA (AI & ML) Student • Python Developer • Exploring AI, Automation & Backend Development
 </h3>
 
+<!-- Added image -->
+
+<p align="center">
+  <img src="images.jpg" width="300" alt="Coding cat"/>
+</p>
+
+<!-- Added video GIF -->
+
+<p align="center">
+  <img src="working-fast.gif" width="700" alt="Working fast">
+</p>
+
+
+
 <p align="center">
   <a href="https://github.com/advikpandey07">
     <img src="https://github.com/advikpandey07.png?size=220" width="140" height="140" style="border-radius:50%" alt="Advik Pandey"/>
