@@ -59,15 +59,6 @@ I'm currently building a strong foundation in programming and databases while ex
 ---
 
 ## 🚀 Featured Work
-
-### 🤖 Jarvis — Personal AI Voice Assistant
-A Python-based personal voice assistant focused on interacting with a computer through voice commands.
-- 🎙️ Speech recognition & text-to-speech
-- 🖥️ Desktop automation & system controls
-- 🔗 API integration for dynamic AI responses
-
-**Tech:** Python • AI • APIs • Automation
-
 ---
 
 ### 🏟️ Sports Management System
