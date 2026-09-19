@@ -7,13 +7,13 @@ BCA (AI & ML) Student • Python Developer • Exploring AI, Automation & Backen
 <!-- Added image -->
 
 <p align="center">
-  <img src="images.jpg" width="300" alt="Coding cat"/>
+  <img src="github_readme_assets/profile-cat.jpg" width="300" alt="Coding cat"/>
 </p>
 
 <!-- Added video GIF -->
 
 <p align="center">
-  <img src="working-fast.gif" width="700" alt="Working fast">
+  <img src="github_readme_assets/working-fast.gif" width="700" alt="Working fast">
 </p>
 
 
