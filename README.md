@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Advik Pandey</h1>
 
 <h3 align="center">
@@ -6,7 +7,7 @@ BCA (AI & ML) Student • Python Developer • Exploring AI, Automation & Backen
 
 <!-- Cat Image (Replaced profile picture) -->
 <p align="center">
-  <img src="coding-cat.png" width="200" alt="Coding Cat" style="border-radius: 15px;" />
+  <img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/7b12fd3e-a343-432e-9597-25ffc07992d0" />
 </p>
 
 <p align="center">
