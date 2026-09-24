@@ -13,10 +13,6 @@ BCA (AI & DS) Student • Python Developer • Exploring AI, Automation & Backen
     <img src="https://img.shields.io/badge/GitHub-advikpandey07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-<p align="center">
-   <img width="400" height="225" alt="videsaur-keyboard-typing" src="https://github.com/user-attachments/assets/0211e46b-03cb-483b-9e2f-f3cf12b236ce" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
