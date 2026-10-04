@@ -22,17 +22,6 @@
     <img src="https://img.shields.io/badge/Instagram-@namex.advik-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
-### 📧 Email
-**[advikpandey516@gmail.com](mailto:advikpandey516@gmail.com)**
-
-### 🌐 Profiles
-- 💼 **LinkedIn:** [Advik Pandey](https://www.linkedin.com/in/advik-pandey-745936430/)
-- 🐙 **GitHub:** [@AdvikPandey](https://github.com/AdvikPandey)
-- 📸 **Instagram:** [@namex.advik](https://www.instagram.com/namex.advik/)
-
----
-
 <p align="center">
   <i>💬 Feel free to connect with me for collaborations, projects, or tech discussions!</i>
 </p>
