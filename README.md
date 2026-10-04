@@ -6,7 +6,36 @@
 <p>BCA Hons. Research (AI &amp; DS) Student | Aspiring Software Developer | Python • SQL • Web Development | AI &amp; Automation Enthusiast</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
-<p><a href="https://github.com/advikpandey07">GitHub</a></p>
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:advikpandey516@gmail.com">
+    <img src="https://img.shields.io/badge/Email-advikpandey516%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/advik-pandey-745936430/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Advik%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AdvikPandey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AdvikPandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/namex.advik/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@namex.advik-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+### 📧 Email
+**[advikpandey516@gmail.com](mailto:advikpandey516@gmail.com)**
+
+### 🌐 Profiles
+- 💼 **LinkedIn:** [Advik Pandey](https://www.linkedin.com/in/advik-pandey-745936430/)
+- 🐙 **GitHub:** [@AdvikPandey](https://github.com/AdvikPandey)
+- 📸 **Instagram:** [@namex.advik](https://www.instagram.com/namex.advik/)
+
+---
+
+<p align="center">
+  <i>💬 Feel free to connect with me for collaborations, projects, or tech discussions!</i>
+</p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img width="738" height="414" alt="images" src="https://github.com/user-attachments/assets/86edc36f-b1d0-491b-ac6b-51fc5558def8" />
