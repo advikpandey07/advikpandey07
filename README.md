@@ -1,18 +1,16 @@
-<div align="center">
-
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · advikpandey07</sub></p>
 <h1>Advik Pandey</h1>
-<h2>Product-minded developer</h2>
 <p>BCA Hons. Research (AI &amp; DS) Student | Aspiring Software Developer | Python • SQL • Web Development | AI &amp; Automation Enthusiast</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/advikpandey07">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/329931282?u=1b10feba0e8240f50d3a84e27225bc0aff2a3e09&amp;v=4" width="180" alt="Advik Pandey GitHub avatar" />
+<img width="738" height="414" alt="images" src="https://github.com/user-attachments/assets/86edc36f-b1d0-491b-ac6b-51fc5558def8" />
+<div align="center">
 </td>
 </tr>
 </table>
