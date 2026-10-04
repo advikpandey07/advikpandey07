@@ -18,20 +18,22 @@
 
 ### 💻 `advik@workstation:~$ neofetch`
 
-```bash
-                  .---.                   advik@workstation
-                 /     \                  -----------------
-                | () () |                 OS: Ubuntu 24.04 LTS / Linux
-                 \  _  /                  Host: ThinkPad [AI & Data Science Lab]
-                  /   \                   Uptime: 24/7 building & learning
-                 /|   |\                  Shell: zsh 5.9
-                / |   | \                 Major: BCA(Hons) with Research (AI & DS)
-               /  |   |  \                Current Focus: Python & Database Architecture
-              *   |---|   *               Interests: AI, Automation, APIs & Voice Assistants
-                  |   |                   Current Project: Sports Management System
-                  |   |                   Philosophy: "Learning by building practical projects"
-                 /     \                  Mission: Turning ideas into working software
-                /       \                 Editor: VS Code / Neovim
+```text
+               .---.                 advik@workstation
+            ./######\.               -----------------
+           :##########:              OS: Ubuntu 24.04 LTS / Linux
+          :############:             Host: ThinkPad [AI & Data Science Lab]
+          :##############:           Uptime: 24/7 building & learning
+         .################.          Shell: zsh 5.9
+         :#####(_____)#####:         Major: BCA(Hons) Research (AI & DS)
+         :#|  [o]   [o]  |#:         Current Focus: Python & Database Architecture
+         :#|     (_)     |#:         Interests: AI, Automation, APIs & Voice Assistants
+          #\    `---'    /#          Current Project: Sports Management System
+           #\___________/#           Philosophy: "Learning by building practical projects"
+          _.-'         `-._          Mission: Turning ideas into working software
+        /                   \        Editor: VS Code / Neovim
+       /  /|  _       _  |\  \       Memory: 32GB / Unlimited Ideas
+      /  / | | |     | | | \  \      Status: Ready for Collaboration
 ```
 
 ---
