@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/advik-pandey-745936430/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Advik%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/AdvikPandey" target="_blank">
+  <a href="https://github.com/advikpandey07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-AdvikPandey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/namex.advik/" target="_blank">
