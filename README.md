@@ -1,101 +1,109 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header Banner -->
-  <a href="https://github.com/advikpandey07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Advik+Pandey;BCA+(AI+%26+Data+Science)+Researcher;Python+Developer+%26+Backend+Explorer;Turning+Ideas+Into+Working+Software" alt="Typing SVG" />
-  </a>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · advikpandey07</sub></p>
+<h1>Advik Pandey</h1>
+<h2>Product-minded developer</h2>
+<p>BCA Hons. Research (AI &amp; DS) Student | Aspiring Software Developer | Python • SQL • Web Development | AI &amp; Automation Enthusiast</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/advik-pandey-745936430"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/namex.advik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:advikpandey516@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://komarev.com/ghpvc/?username=advikpandey07&label=PROFILE+VIEWS&style=for-the-badge&color=007ec6" alt="Profile Views" />
-  </p>
-
+<p><a href="https://github.com/advikpandey07">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/329931282?u=1b10feba0e8240f50d3a84e27225bc0aff2a3e09&amp;v=4" width="180" alt="Advik Pandey GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-### 💻 `advik@workstation:~$ neofetch`
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>23 contributions · 5 active days</p></td>
+</tr>
+</table>
 
-```text
-               .---.                 advik@workstation
-            ./######\.               -----------------
-           :##########:              OS: Ubuntu 24.04 LTS / Linux
-          :############:             Host: ThinkPad [AI & Data Science Lab]
-          :##############:           Uptime: 24/7 building & learning
-         .################.          Shell: zsh 5.9
-         :#####(_____)#####:         Major: BCA(Hons) Research (AI & DS)
-         :#|  [o]   [o]  |#:         Current Focus: Python & Database Architecture
-         :#|     (_)     |#:         Interests: AI, Automation, APIs & Voice Assistants
-          #\    `---'    /#          Current Project: Sports Management System
-           #\___________/#           Philosophy: "Learning by building practical projects"
-          _.-'         `-._          Mission: Turning ideas into working software
-        /                   \        Editor: VS Code / Neovim
-       /  /|  _       _  |\  \       Memory: 32GB / Unlimited Ideas
-      /  / | | |     | | | \  \      Status: Ready for Collaboration
-```
+<p><sub>BCA Hons. Research (AI &amp; DS) Student | Aspiring Software Developer | Python • SQL • Web Development | AI &amp; Automation Enthusiast</sub></p>
 
----
+<h2>Proof at a glance</h2>
 
-### 🚀 About Me
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-```yaml
-name: Advik Pandey
-role: Python Developer & AI/DS Scholar
-education: BCA (Hons) with Research — AI & Data Science
-interests:
-  - Artificial Intelligence & Automation
-  - Backend Development & REST APIs
-  - Database Design & Optimization
-current_project: Sports Management System
-motto: "Code. Automate. Scale."
-```
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Advik Pandey GitHub proof metrics" />
+</picture>
+</p>
 
----
+<h2>Selected work</h2>
 
-### 🛠️ Languages & Tech Stack
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&repos=advikpandey07%2Fadvikpandey07&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&repos=advikpandey07%2Fadvikpandey07&v=recruiter-projects-1&mode=dark" width="100%" alt="Advik Pandey selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/advikpandey07/advikpandey07">advikpandey07</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/advikpandey07/advikpandey07">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,sqlite,git,github,vscode,linux" alt="Tech Stack" />
-</div>
+<table width="100%">
+<tr>
 
-<br/>
+</tr>
+</table>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `Python`, `HTML5`, `CSS3` |
-| **Databases** | `MySQL`, `SQLite`, `SQL` |
-| **Tools & OS** | `Git`, `GitHub`, `VS Code`, `Linux / Bash` |
+<h2>Technical toolkit</h2>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Advik Pandey technology stack" />
+</picture>
+</p>
 
-### 📊 Real-Time GitHub Analytics
+<table width="100%">
+<tr>
+<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
+</tr>
+</table>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=advikpandey07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Advik's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advikpandey07&layout=compact&theme=tokyonight&hide_border=true" alt="Advik's Top Languages" />
-</div>
+<h2>Consistency signal</h2>
 
-<div align="center">
-  <br/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=advikpandey07&theme=tokyonight&hide_border=true" alt="Advik's Streak" />
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Advik Pandey contribution activity" />
+</picture>
+</p>
 
----
+<hr />
 
-### 🐍 Contribution Activity
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/advikpandey07">GitHub</a></td>
+</tr>
+</table>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/advikpandey07/advikpandey07/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/advikpandey07/advikpandey07/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/advikpandey07/advikpandey07/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with 💙 by <a href="https://github.com/advikpandey07">Advik Pandey</a></sub>
-</div>
+<p align="center"><sub>Advik Pandey · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
