@@ -34,18 +34,6 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>23 contributions · 5 active days</p></td>
-</tr>
-</table>
-
-<p><sub>BCA Hons. Research (AI &amp; DS) Student | Aspiring Software Developer | Python • SQL • Web Development | AI &amp; Automation Enthusiast</sub></p>
-
 <h2>Proof at a glance</h2>
 
 <p align="center">
