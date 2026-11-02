@@ -48,15 +48,6 @@
 
 <h2>Proof at a glance</h2>
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>23</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=advikpandey07&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F329931282%3Fu%3D1b10feba0e8240f50d3a84e27225bc0aff2a3e09%26v%3D4&v=recruiter-stats-1&mode=light" />
